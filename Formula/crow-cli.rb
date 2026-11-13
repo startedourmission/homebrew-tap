@@ -1,8 +1,8 @@
 class CrowCli < Formula
   desc "Reverse agents and persistent tmux-like terminal sessions"
   homepage "https://github.com/startedourmission/crow-cli"
-  url "https://github.com/startedourmission/crow-cli/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f974afb20ec2d2da1e0f7a31c4732b7d8e49bfdf8eaedbb495a19dc11441b913"
+  url "https://github.com/startedourmission/crow-cli/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "476706642cd23d09932fb643d823a573cdb5aa0d9825ea3fd12f5c85e97ae2dc"
   license "MIT"
   head "https://github.com/startedourmission/crow-cli.git", branch: "main"
 
